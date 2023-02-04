@@ -17,6 +17,8 @@ _Some basics of github._
   The start <details> should have `open` as well.
   Do not use quotes on the <details> tag attributes.
 -->
+## beginners course
+[Github skills](https://skills.github.com/)
 
 <!--step0
 
